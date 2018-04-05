@@ -1,5 +1,5 @@
 {
-  "name": "generator-golang",
+  "name": "generator-gogo-golang",
   "version": "0.1.0",
   "description": "golang boilerplate generator",
   "files": [
