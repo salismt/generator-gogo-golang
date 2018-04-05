@@ -1,0 +1,16 @@
+{
+  "name": "generator-golang",
+  "version": "0.1.0",
+  "description": "golang boilerplate generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Salis",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
