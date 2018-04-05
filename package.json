@@ -1,6 +1,6 @@
 {
   "name": "generator-gogo-golang",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "golang boilerplate generator",
   "files": [
     "generators"
@@ -14,7 +14,7 @@
     "yeoman-generator": "^1.1.1"
   },
   "repository": {
-  "type": "git",
-  "url": "git://github.com/salismt/generator-gogo-golang.git"
-}
+    "type": "git",
+    "url": "git://github.com/salismt/generator-gogo-golang.git"
+  }
 }
