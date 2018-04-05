@@ -3,7 +3,9 @@
   "version": "0.2.1",
   "description": "golang boilerplate generator",
   "files": [
-    "generators"
+    "generators",
+    "app",
+    "router"
   ],
   "keywords": [
     "yeoman-generator"
